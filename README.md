@@ -1,4 +1,7 @@
 ### Hi there 👋
+![GithubStats](https://github-readme-stats.vercel.app/api?username=Hao-ran-Guo&show_icons=true&theme=dark&count_private=true)
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hao-ran-Guo&layout=compact&theme=dark&count_private=true)
+
 
 <!--
 **Hao-ran-Guo/Hao-ran-Guo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
