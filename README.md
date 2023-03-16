@@ -32,7 +32,9 @@
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat"></a>
   <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat"></a>
 </p>
-  <img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,matlab,ros,pytorch,ps,pr,ae,twitter,idea,git,vscode" />
+</p>
 
 
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=Hao-ran-Guo&show_icons=true&theme=default&count_private=true)
