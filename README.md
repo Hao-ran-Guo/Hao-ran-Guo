@@ -50,8 +50,11 @@
 <img width="200%" src="./img/hr.gif" />
 
 ### 📊 Github Stats
-![GithubStats](https://github-readme-stats.vercel.app/api?username=Hao-ran-Guo&show_icons=true&theme=default&count_private=true)
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hao-ran-Guo&layout=compact&theme=default&count_private=true)
+<div align="center"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=Hao-ran-Guo&show_icons=true&theme=default&count_private=true" alt="GitHub stats" /> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hao-ran-Guo&layout=compact&theme=default&count_private=true" alt="TopLangs">
+</div>
+
 <div align="center"> 
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hao-ran-guo&bg_color=FFFFFF&color=000000&line=3399FF&point=FF659D" alt="Haoran's Graph" /> 
 </div>
@@ -59,7 +62,10 @@
 <img width="200%" src="./img/hr.gif" />
 
 <h1 align='center'>⚡️<i>Stay Hungry, Stay Foolish!</i>⚡️</h1>
-<img src="https://quotes-github-readme.vercel.app/api?quote=Stay%20Hungry%2C%20Stay%20Foolish%21&author=Steve%20Jobs&type=horizontal" /><br>
+
+<p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?quote=Stay%20Hungry%2C%20Stay%20Foolish%21&author=Steve%20Jobs&type=horizontal" /><br>
+</p>
 
 <p align="center">
         <img src="./img/Bottom.svg" alt="Bottom" />
