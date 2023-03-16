@@ -5,14 +5,14 @@
 
 <p align='center'>
     <a href="https://www.linkedin.com/in/haoranguo/"><img height="30" src="./img/linkedin.png"></a>&nbsp;&nbsp;
-    <a href="mailto:haoranguo.me@gmail.com"><img height="30" src="./img/gmail.png">Email</a>&nbsp;&nbsp;
+    <a href="mailto:haoranguo.me@gmail.com"><img height="30" src="./img/gmail.png"></a>&nbsp;&nbsp;
     <a href="https://github.com/hao-ran-guo"><img height="30" src="./img/github.png"></a>&nbsp;&nbsp;
     <a href="https://twitter.com/haoranguome"><img height="30" src="./img/twitter.png"></a>&nbsp;&nbsp;
  </p>
 
 <div align="center">
     <h3>
-        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Haoran Guo | 💻 Undergraduate Student | 🏠 Wuhan, China <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Haoran Guo | 🎓 Undergraduate Student | 🏠 Wuhan, China <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
     </h3>
 </div>
 
@@ -21,7 +21,7 @@
    <img src="https://custom-icon-badges.herokuapp.com/github/last-commit/hao-ran-guo/hao-ran-guo" alt="Hao-ran-Guo"/>
 </p>
 
-### - Languages and Tools...
+### 💻 Languages and Tools
 
 <p align="center">
   <a href="https://cplusplus.com/"><img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat"></a>
@@ -36,9 +36,12 @@
   <img src="https://skillicons.dev/icons?i=cpp,python,matlab,ros,pytorch,ps,pr,ae,twitter,idea,git,vscode" />
 </p>
 
-
+### 📊 Github Stats
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=Hao-ran-Guo&show_icons=true&theme=default&count_private=true)
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hao-ran-Guo&layout=compact&theme=default&count_private=true)
+<div align="center"> 
+    <img src="https://activity-graph.herokuapp.com/graph?username=hao-ran-guo&theme=default" /> 
+</div>
 
 
 
