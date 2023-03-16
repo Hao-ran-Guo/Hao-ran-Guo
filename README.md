@@ -17,9 +17,15 @@
 </div>
 
 <p align="center">
-   <a href="https://visitor-badge.glitch.me/badge?page_id=hao-ran-guo.hao.ran.guo"> <img alt="Haoran's Visitors" src="https://visitor-badge.glitch.me/badge?page_id=hao-ran-guo.hao.ran.guo"></a>
+   <a href="https://komarev.com/ghpvc/?username=hao-ran-guo&label=Visitors&style=flat"> <img alt="Visitors" src="https://komarev.com/ghpvc/?username=hao-ran-guo&label=Visitors&style=flat"></a>
    <img src="https://custom-icon-badges.herokuapp.com/github/last-commit/hao-ran-guo/hao-ran-guo" alt="Last Commit"/>
 </p>
+
+- 🎓 Undergraduate Student at [Huazhong University of Science and Technology](https://english.hust.edu.cn/), Wuhan, China
+- 📖 Major in Mechanical Design, Manufacturing and Automation
+- 💡 Research Interests: Sensor Fusion, SLAM, Robotics, etc.
+- 🚀 Get to know me more: [hao-ran-guo.github.io](https://hao-ran-guo.github.io)
+- 📫 How to reach me: [haoranguo.me@gmail.com](mailto:haoranguo.me@gmail.com) or [Linkedin](https://www.linkedin.com/in/haoranguo/)
 
 <img width="200%" src="./img/hr.gif" />
 
@@ -37,6 +43,9 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,matlab,ros,pytorch,ps,pr,ae,twitter,idea,git,vscode" />
 </p>
+<p align="center">
+  <img src="./img/icon.png" />
+</p>
 
 <img width="200%" src="./img/hr.gif" />
 
@@ -50,11 +59,8 @@
 <img width="200%" src="./img/hr.gif" />
 
 <h1 align='center'>⚡️<i>Stay Hungry, Stay Foolish!</i>⚡️</h1>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark?quote=Stay%20Hungry%2C%20Stay%20Foolish%21" /><br>
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Stay%20Hungry%2C%20Stay%20Foolish%21)](https://github.com/piyushsuthar/github-readme-quotes)
-<p align="center">
-        <img src="./img/stay-hungry-stay-foolish-1.png" alt="Stay Hungry, Stay Foolish!" />
-</p>
+<img src="https://quotes-github-readme.vercel.app/api?quote=Stay%20Hungry%2C%20Stay%20Foolish%21&author=Steve%20Jobs&type=horizontal" /><br>
+
 <p align="center">
         <img src="./img/Bottom.svg" alt="Bottom" />
 </p>
