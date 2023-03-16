@@ -6,8 +6,8 @@
 <p align='center'>
     <a href="https://www.linkedin.com/in/haoranguo/"><img height="30" src="./img/linkedin.png"></a>&nbsp;&nbsp;
     <a href="mailto:haoranguo.me@gmail.com"><img height="30" src="./img/gmail.png"></a>&nbsp;&nbsp;
-    <a href="https://github.com/hao-ran-guo"><img height="30" src="./img/github.png"></a>&nbsp;&nbsp;
     <a href="https://twitter.com/haoranguome"><img height="30" src="./img/twitter.png"></a>&nbsp;&nbsp;
+    <a href="https://github.com/hao-ran-guo"><img height="30" src="./img/github.png"></a>&nbsp;&nbsp;
  </p>
 
 <div align="center">
@@ -17,9 +17,11 @@
 </div>
 
 <p align="center">
-   <a href="https://visitor-badge.glitch.me/badge?page_id=hao-ran-guo.hao.ran.guo"> <img alt="haoran guo github" src="https://visitor-badge.glitch.me/badge?page_id=hao-ran-guo.hao.ran.guo"></a>
-   <img src="https://custom-icon-badges.herokuapp.com/github/last-commit/hao-ran-guo/hao-ran-guo" alt="Hao-ran-Guo"/>
+   <a href="https://visitor-badge.glitch.me/badge?page_id=hao-ran-guo.hao.ran.guo"> <img alt="Haoran's Visitors" src="https://visitor-badge.glitch.me/badge?page_id=hao-ran-guo.hao.ran.guo"></a>
+   <img src="https://custom-icon-badges.herokuapp.com/github/last-commit/hao-ran-guo/hao-ran-guo" alt="Last Commit"/>
 </p>
+
+<img width="200%" src="./img/hr.gif" />
 
 ### 💻 Languages and Tools
 
@@ -36,13 +38,23 @@
   <img src="https://skillicons.dev/icons?i=cpp,python,matlab,ros,pytorch,ps,pr,ae,twitter,idea,git,vscode" />
 </p>
 
+<img width="200%" src="./img/hr.gif" />
+
 ### 📊 Github Stats
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=Hao-ran-Guo&show_icons=true&theme=default&count_private=true)
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hao-ran-Guo&layout=compact&theme=default&count_private=true)
 <div align="center"> 
-    <img src="https://activity-graph.herokuapp.com/graph?username=hao-ran-guo&theme=default" /> 
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hao-ran-guo&bg_color=FFFFFF&color=000000&line=3399FF&point=FF659D" alt="Haoran's Graph" /> 
 </div>
 
+<img width="200%" src="./img/hr.gif" />
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark?quote=Stay Hungry, Stay Foolish!" /><br>
+
+<h1 align='center'>⚡️<i>Stay Hungry, Stay Foolish!</i>⚡️</h1>
+<p align="center">
+        <img src="./img/Bottom.svg" alt="Bottom" />
+</p>
 
 
 
