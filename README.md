@@ -49,9 +49,11 @@
 
 <img width="200%" src="./img/hr.gif" />
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark?quote=Stay Hungry, Stay Foolish!" /><br>
-
 <h1 align='center'>⚡️<i>Stay Hungry, Stay Foolish!</i>⚡️</h1>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark?quote=Stay%20Hungry%2C%20Stay%20Foolish%21" /><br>
+<p align="center">
+        <img src="./img/stay-hungry-stay-foolish-1.png" alt="Stay Hungry, Stay Foolish!" />
+</p>
 <p align="center">
         <img src="./img/Bottom.svg" alt="Bottom" />
 </p>
