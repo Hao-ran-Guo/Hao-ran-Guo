@@ -17,8 +17,8 @@
 </div>
 
 <p align="center">
-   <a href="https://komarev.com/ghpvc/?username=hao-ran-guo&label=Visitors&style=flat"> <img alt="Visitors" src="https://komarev.com/ghpvc/?username=hao-ran-guo&label=Visitors&style=flat"></a>
-   <img src="https://custom-icon-badges.herokuapp.com/github/last-commit/hao-ran-guo/hao-ran-guo" alt="Last Commit"/>
+   <a href="https://komarev.com/ghpvc/?username=hao-ran-guo&label=Visitors&style=flat"> <img alt="Visitors" src="https://komarev.com/ghpvc/?username=haoranguo&label=Visitors&style=flat"></a>
+   <img src="https://custom-icon-badges.herokuapp.com/github/last-commit/haoranguo/haoranguo" alt="Last Commit"/>
 </p>
 
 - 🎓 Undergraduate Student at [Huazhong University of Science and Technology](https://english.hust.edu.cn/), Wuhan, China
@@ -51,8 +51,8 @@
 
 ### 📊 Github Stats
 <div align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=Hao-ran-Guo&show_icons=true&theme=default&count_private=true" alt="GitHub stats" /> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hao-ran-Guo&layout=compact&theme=default&count_private=true" alt="TopLangs">
+    <img src="https://github-readme-stats.vercel.app/api?username=HaoranGuo&show_icons=true&theme=default&count_private=true" alt="GitHub stats" /> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaoranGuo&layout=compact&theme=default&count_private=true" alt="TopLangs">
 </div>
 
 <div align="center"> 
